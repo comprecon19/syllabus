@@ -93,8 +93,8 @@ Links to presentations and assignments will be posted here
 
 ### Class 2 (9/17): Arduino
 * Lecture Slides:  
-	* [Unit 1: Arduino](https://docs.google.com/presentation/d/1aqimhHVYOilbZO4N1p5yQH5pJ2R0MO5yCkZhvTLtLD4/edit?usp=sharing) (Continuing from slide 14)  
-	* [Unit 1 Part 2: Using Sensors](https://docs.google.com/presentation/d/1awsR6jF_iQ5WbuQjSiDJqHeoBsccIat1hBDR26AGRhk/edit?usp=sharing) (if time)  
+	* [Unit 1: Arduino](https://docs.google.com/presentation/d/1aqimhHVYOilbZO4N1p5yQH5pJ2R0MO5yCkZhvTLtLD4/edit?usp=sharing) (Continuing from slide 14, stopped at slide 18)  
+<!-- 	* [Unit 1 Part 2: Using Sensors](https://docs.google.com/presentation/d/1awsR6jF_iQ5WbuQjSiDJqHeoBsccIat1hBDR26AGRhk/edit?usp=sharing) (if time)  --> 
 * [Arduino reference](https://www.arduino.cc/reference/en)
 
 
