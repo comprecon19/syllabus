@@ -102,6 +102,8 @@ Links to presentations and assignments will be posted here
 	* [Unit 1: Arduino](https://docs.google.com/presentation/d/1aqimhHVYOilbZO4N1p5yQH5pJ2R0MO5yCkZhvTLtLD4/edit?usp=sharing) (Continuing from slide 18)  
 	* [Unit 1 Part 2: Using Sensors](https://docs.google.com/presentation/d/1awsR6jF_iQ5WbuQjSiDJqHeoBsccIat1hBDR26AGRhk/edit?usp=sharing)   
 * [Arduino reference](https://www.arduino.cc/reference/en)
+* [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
+* **Assignment**: Mini-project: Make a "mini-installation" with your sensor. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it. Working in groups for this assignment is fine.
 
 ----
 
