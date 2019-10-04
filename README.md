@@ -105,6 +105,10 @@ Links to presentations and assignments will be posted here
 * [Proximity Sensor Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
 * **Assignment**: Mini-project: Make a "mini-installation" with your sensor. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it. Working in groups for this assignment is fine.
 
+### Class 4 (10/1): Arduino Mini-installations
+* Presented assignments.
+* **Assignment**: Please complete the tutorial at https://hello.processing.org/. Click on the video to start it.  
+
 ----
 
 ## Shared Code/Assignments
