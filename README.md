@@ -107,7 +107,7 @@ Links to presentations and assignments will be posted here
 
 ### Class 4 (10/1): Arduino Mini-installations
 * Presented assignments.
-* **Assignment**: Please complete the tutorial at https://hello.processing.org/. Click on the video to start it.  
+* **Assignment**: Please complete the tutorial at https://hello.processing.org/. Click on the video to start it. After you've completed the tutorial, download and install Processing from https://processing.org/download/  
 
 ----
 
