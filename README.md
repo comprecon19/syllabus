@@ -109,6 +109,12 @@ Links to presentations and assignments will be posted here
 * Presented assignments.
 * **Assignment**: Please complete the tutorial at https://hello.processing.org/. Click on the video to start it. After you've completed the tutorial, download and install Processing from https://processing.org/download/  
 
+### Class 5 (10/08): Processing
+* Lecture Slides:  
+	* [Unit 2: Processing](https://docs.google.com/presentation/d/1JgUzmAH9QypYAYmk7qTeQqFojIc4OsZLzbLIpgzU248/edit?usp=sharing)  
+* [Processing reference](https://processing.org/reference/)
+* [Processing repo](https://github.com/comprecon19/processing)  
+
 ----
 
 ## Shared Code/Assignments
