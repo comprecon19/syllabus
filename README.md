@@ -122,6 +122,10 @@ Links to presentations and assignments will be posted here
 * [Processing repo](https://github.com/comprecon19/processing)  
 * **Assignment**: Mini-project: Make a mini video installation using a sensor with Processing. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it. 
 
+### Class 7 (10/22): Processing + Arduino Mini-installations
+* Lecture Slides: [Unit 2 Part 2: Processing + Arduino](https://docs.google.com/presentation/d/1gFJNayxIeQcHFTfrKRn87OXbCeGbu_TAbhBeUuZChlE/edit?usp=sharing)
+* **Assignment**: Download PureData-extended (**not** vanilla!). Download link: https://puredata.info/downloads/pd-extended
+
 ----
 
 ## Shared Code/Assignments
