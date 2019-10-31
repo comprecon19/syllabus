@@ -127,7 +127,7 @@ Links to presentations and assignments will be posted here
 * **Assignment**: Download PureData-extended (**not** vanilla!). Download link: https://puredata.info/downloads/pd-extended
 
 ### Class 8 (10/29): PureData
-* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1-XoKHMFXEM7abuDlLD6aAH6jTycuxOBri1bOIL-leVQ/edit?usp=sharing)
+* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1-XoKHMFXEM7abuDlLD6aAH6jTycuxOBri1bOIL-leVQ/edit?usp=sharing) (stopped at slide 8)
 * Pd Documentation (though I recommend using the reference/help docs that are integrated into the software): https://puredata.info/docs
 
 ----
