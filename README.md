@@ -130,6 +130,11 @@ Links to presentations and assignments will be posted here
 * Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1-XoKHMFXEM7abuDlLD6aAH6jTycuxOBri1bOIL-leVQ/edit?usp=sharing) (stopped at slide 8)
 * Pd Documentation (though I recommend using the reference/help docs that are integrated into the software): https://puredata.info/docs
 
+### Class 9 (11/5): PureData + Arduino
+* Lecture Slides: Unit 3: [Pure Data](https://docs.google.com/presentation/d/1-XoKHMFXEM7abuDlLD6aAH6jTycuxOBri1bOIL-leVQ/edit?usp=sharing) (continuing from slide 8)
+* Pd Documentation (the real reference is built into the software): https://puredata.info/docs
+* **Assignment**: Mini-project: Make a mini installation using a sensor and Pure Data. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it.
+
 ----
 
 ## Shared Code/Assignments
