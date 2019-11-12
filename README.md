@@ -135,6 +135,10 @@ Links to presentations and assignments will be posted here
 * Pd Documentation (the real reference is built into the software): https://puredata.info/docs
 * **Assignment**: Mini-project: Make a mini installation using a sensor and Pure Data. It doesn’t need to be polished, and it doesn’t even have to work 100%, but I do want you to try using the sensor with some thought behind how you want us to interact with it.
 
+### Class 10 (11/12): PureData + Arduino Show-and-Tell / Final Project Prep
+* Assignment: [Final Project Proposal](https://docs.google.com/presentation/d/122HdpO5QKZ9xtsLmgaOBVxCkgBRFTCz7fcZ2sxOwdcE/edit?usp=sharing)
+* [Sensor sign-up sheet](https://docs.google.com/spreadsheets/d/1ME7rKxpuZvqSFeBzIVuRFk7qUoF_r6sb_jlV_gIG2pU/edit?usp=sharing)
+
 ----
 
 ## Shared Code/Assignments
