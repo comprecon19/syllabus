@@ -146,7 +146,7 @@ Links to presentations and assignments will be posted here
 * [Soldering Workshop Guide](https://docs.google.com/presentation/d/1uwY525EzybJtOeBKbYyUoFTvNodpQCpoGHnb5V0xl94/edit?usp=sharing)
 * Copy of the email I sent out:  
 	
-	**Data Flow Workshop Friday, 11/22m C108, 2pm:** Autumn is having a data flow workshop at 2pm in C108. If you want to get your arduino talking to Processing and PureData (or any two softwares) at the same time, this workshop is for you! Please email Autumn at autumnrogers@alum.calarts.edu if you plan to attend!
+	**Data Flow Workshop Friday, 11/22, C108, 2pm:** Autumn is having a data flow workshop at 2pm in C108. If you want to get your arduino talking to Processing and PureData (or any two softwares) at the same time, this workshop is for you! Please email Autumn at autumnrogers@alum.calarts.edu if you plan to attend!
 
 	**Soldering Workshop next week before class (C108, 6pm):** I will be holding a soldering workshop in C108 at 6pm. I will cover soldering basics and is recommended for anyone who hasn't soldered before. Topics include how to solder wires together (extend the wires on your sensor), how to solder wires and other components to circuit boards, and how to accurately translate your circuit from a solderless breadboard to a soldered one. Please email me if you plan on attending. I will hold another workshop the following week at the same time, and I'll keep all of the soldering equipment set up during both classes so you can use that time to solder.
 
