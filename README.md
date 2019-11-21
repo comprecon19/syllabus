@@ -52,8 +52,9 @@ How can computation be reconsidered within the critical contexts of an art pract
 | 09 | 11/05 | **PureData** + Arduino          |  |
 | 10 | 11/12 | **PureData** + Arduino     | **Mini-Project Due**, Discuss Final Project |
 | 11 | 11/19 | **Final Project** Proposals, Form Groups |  |
-| 12 | 11/26 | **Final Project** Development            | Soldering Workshop<sup>‡</sup> |
-| 13 | 12/03 | **Final Project** Development            |  |
+|    | 11/22 | Autumn Rogers: Data Flow Workshop, 2pm C108 |  |
+| 12 | 11/26 | **Final Project** Development            | Soldering Workshop 6pm, C108<sup>‡</sup> |
+| 13 | 12/03 | **Final Project** Development, <br>**Dongpu** and **Gary** present their Final Projects | Soldering Workshop 6pm, C108<sup>‡</sup> |
 | 14 | 12/10 | Gallery Open                             |  |
 
 <sup>†</sup>Secondary topics may shift throughout the semester  
@@ -139,6 +140,22 @@ Links to presentations and assignments will be posted here
 * Assignment: [Final Project Proposal](https://docs.google.com/presentation/d/122HdpO5QKZ9xtsLmgaOBVxCkgBRFTCz7fcZ2sxOwdcE/edit?usp=sharing)
 * [Sensor sign-up sheet](https://docs.google.com/spreadsheets/d/1ME7rKxpuZvqSFeBzIVuRFk7qUoF_r6sb_jlV_gIG2pU/edit?usp=sharing)
 
+### Classes 11-13 (11/19 - 12/3): Final Project Development
+* [C108 Room Layout](https://docs.google.com/drawings/d/1HJxbSKyveVgdYEImMjOPvjWMTLTqzhNsbqLwVKx4kYA/edit?usp=sharing)  - Add your project to the diagram w/ your name
+* [Sensor sign-up sheet](https://docs.google.com/spreadsheets/d/1ME7rKxpuZvqSFeBzIVuRFk7qUoF_r6sb_jlV_gIG2pU/edit?usp=sharing)
+* [Soldering Workshop Guide](https://docs.google.com/presentation/d/1uwY525EzybJtOeBKbYyUoFTvNodpQCpoGHnb5V0xl94/edit?usp=sharing)
+* Copy of the email I sent out:  
+	
+	**Data Flow Workshop Friday, 11/22m C108, 2pm:** Autumn is having a data flow workshop at 2pm in C108. If you want to get your arduino talking to Processing and PureData (or any two softwares) at the same time, this workshop is for you! Please email Autumn at autumnrogers@alum.calarts.edu if you plan to attend!
+
+	**Soldering Workshop next week before class (C108, 6pm):** I will be holding a soldering workshop in C108 at 6pm. I will cover soldering basics and is recommended for anyone who hasn't soldered before. Topics include how to solder wires together (extend the wires on your sensor), how to solder wires and other components to circuit boards, and how to accurately translate your circuit from a solderless breadboard to a soldered one. Please email me if you plan on attending. I will hold another workshop the following week at the same time, and I'll keep all of the soldering equipment set up during both classes so you can use that time to solder.
+
+	**Our second to last class (12/3):** Gary and Dongpu won't be at our final install 😢, so they will both be installing/presenting their final projects in our second to last class. You can still use that day as a work day, but when Gary and Dongpu are presenting, please give them your attention!
+
+	**Room layout / Claim your space:** Below is a link to a drawing of the room. Please draw a shape where you plan to set up your piece and write your name on it. Please don't edit anyone else's space. If there are any issues, we can address them in our next class to figure out space for everyone.  
+	[C108 Room Layout](https://docs.google.com/drawings/d/1HJxbSKyveVgdYEImMjOPvjWMTLTqzhNsbqLwVKx4kYA/edit?usp=sharing)
+
+  
 ----
 
 ## Shared Code/Assignments
