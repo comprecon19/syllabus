@@ -54,7 +54,7 @@ How can computation be reconsidered within the critical contexts of an art pract
 | 11 | 11/19 | **Final Project** Proposals, Form Groups |  |
 |    | 11/22 | Autumn Rogers: Data Flow Workshop, 2pm C108 |  |
 | 12 | 11/26 | **Final Project** Development            | Soldering Workshop 6pm, C108<sup>‡</sup> |
-| 13 | 12/03 | **Final Project** Development, <br>**Dongpu** and **Gary** present their Final Projects | Soldering Workshop 6pm, C108<sup>‡</sup> |
+| 13 | 12/03 | **Final Project** Development, <br>**Dongpu, Gary**, and **Sunny** present their Final Projects | Soldering Workshop 6pm, C108<sup>‡</sup> |
 | 14 | 12/10 | Gallery Open                             |  |
 
 <sup>†</sup>Secondary topics may shift throughout the semester  
